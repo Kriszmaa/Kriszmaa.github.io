@@ -6,6 +6,7 @@ import './App.css'
 import Header from './Header'
 import Footer from './Footer'
 import Hello from './Hello.jsx'
+import Portafolio from './Portafolio.jsx'
 function App() {
 
 
@@ -14,6 +15,9 @@ function App() {
       <body >
         <h1><Hello/></h1>
       </body>
+      <body> 
+        <Portafolio/>
+        </body>
     </>
   );
 }
