@@ -1,5 +1,4 @@
-function hola(){
-    return "hola diego"
+function Hello() {
+  return "HOLAA DIEGO";
 }
-
-export default hola;
+export default Hello;
